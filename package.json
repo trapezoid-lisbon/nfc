@@ -1,0 +1,20 @@
+{
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@crypto-org-chain/chain-jslib": "^1.0.7",
+    "ethers": "^5.7.2",
+    "mifare-classic": "^0.1.0",
+    "ndef": "^0.2.0",
+    "nfc-pcsc": "^0.8.1",
+    "react-native-nfc": "^0.3.0"
+  }
+}
